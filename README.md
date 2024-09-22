@@ -1,6 +1,7 @@
 RAG-based Resume Query Application
 This project is a Retrieval-Augmented Generation (RAG) system designed to query IT resumes from a PDF document. It uses FastAPI for backend services and Streamlit for an interactive front-end interface.
 
+
 Project Structure
 project/
 │
@@ -11,6 +12,7 @@ project/
 ├── requirements.txt            # List of dependencies to install for the project.
 ├── env.txt                     # Environment variables such as API keys.
 └── README.md                   # Project documentation with setup and run instructions.
+
 
 File Descriptions
 app.py: The main front-end built using Streamlit that provides a user interface for querying the resumes.
